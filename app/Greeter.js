@@ -15,9 +15,9 @@ import config from './config.json';
 class Greeter extends Component{
     render() {
         return (
-            <div>
+            <h1>
                 {config.greetText}
-            </div>
+            </h1>
         );
     }
 }
