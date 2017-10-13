@@ -1,0 +1,7 @@
+.root{
+    background-color: #000000;
+    border: 10px solid deepskyblue;
+    border-radius: 10px;
+    transform-origin: left top;
+    transform: rotate(5deg);
+}
